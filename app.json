@@ -1,7 +1,7 @@
 {
-  "name": "سورس سيمو",
+  "name": " سورس سيمو ",
   "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/83ee584aef1c4db1d9597.jpg",
+  "logo": "https://telegra.ph/file/ec05d05719cc93dd2b663.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -55,12 +55,12 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "jepthoniq",
+      "value": "SEMO",
       "required": false
     }
   },
