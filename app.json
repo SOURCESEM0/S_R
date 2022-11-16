@@ -55,7 +55,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "",
+      "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
