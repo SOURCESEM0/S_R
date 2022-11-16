@@ -1,5 +1,5 @@
 {
-  "name": " ✛━[𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐄𝐌𝐎]━✛ ",
+  "name": "𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐄𝐌𝐎",
   "description": "اللهم صلِ على محمد وآل محمد",
   "logo": "https://telegra.ph/file/ec05d05719cc93dd2b663.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SOURCESEM0/S_R",
+  "repository": "https://github.com/SOURCESEM0/S_R/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -55,7 +55,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Africa/Cairo",
+      "value": "",
       "required": false
     },
     "UPSTREAM_REPO": {
@@ -77,7 +77,7 @@
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+    "url": "https://github.com/riganf/heroku-buildpack-p7zip"
   },{
     "url": "https://github.com/rahulps1000/heroku-buildpack-nodejs"
   },{
